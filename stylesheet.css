@@ -1,0 +1,192 @@
+body {
+	background-color: black;
+	background-image: url(img/bg.jpg);
+	background-repeat: repeat-y;
+	background-position:center;
+	color: white;
+	margin-top: -20px;
+	margin-bottom: -5px;
+}
+
+.bicolore {
+	background-image: url(img/full.jpg);
+	background-repeat: repeat-y;
+	background-position:center;
+	width: 720px;
+	margin: auto;
+	height: 2120px;
+	position: relative;
+
+}
+
+.right {
+	float: right;
+	width: 240px;
+	margin-right: 35px;
+	margin-top: 400px;
+}
+
+.left {
+	float: left;
+	width: 400px;
+	margin: 10px;
+}
+
+footer {
+	float: left;
+}
+
+.titre {
+	position: relative;
+
+}
+
+.element1 {
+	margin-left: 405px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.element2 {
+    margin-left: 435px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.element3 {
+	position: absolute;
+	margin-left: 490px;
+	margin-top: 90px;
+	text-align: center;
+	font-size: 60px
+}
+
+.element4 {
+	position: absolute;
+	margin-left: 480px;
+	margin-top: 130px;
+	text-align: center;
+	font-size: 60px;
+}
+
+
+
+h1 {
+	font-family: arial;
+	font-weight: bold;
+
+}
+
+h2 {
+	
+	font-family: arial;
+	font-weight: bold;
+	border-top:5px solid yellow;
+}
+
+h3 {
+	font-family: arial;
+	font-weight: bold;
+	background-color: yellow;
+	color: black;
+}
+a {
+	color: yellow;
+	text-decoration:none;
+}
+
+.lien_article {
+	font-size: small;
+	border-left:5px solid yellow;
+	padding-left: 3px;
+}
+
+.skate1 {
+	border:2px solid yellow;
+	padding: 3px;
+	float: left;
+}
+
+.skate2 {
+	border:2px solid yellow;
+	padding: 3px;
+	float: right;
+}
+
+.perma {
+	font-family: arial;
+	font-weight: bold;
+}
+
+.quote {
+	border-top: 1px solid yellow;
+	border-bottom: 1px solid yellow;
+	background-color: #383838;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.link {
+	float: left;
+
+}
+
+.web {
+	float: right;
+}
+
+.cell {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	background-color: #383838;
+	padding: 10px;
+	list-style: none
+
+}
+
+.grise {
+	color: gray;
+}
+
+.home{
+	list-style: none;
+	color: white;
+
+}
+
+.update {
+	list-style: none;
+
+}
+
+.nav {
+	list-style: none;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 24px;
+
+}
+
+.cadre {
+	border-top:5px solid yellow;
+	border-left: 3px solid yellow;
+	border-right: 3px solid yellow;
+	border-bottom: 3px solid yellow;
+}
+
+.pink {
+	font-family: arial;
+	font-weight: bold;
+	background-color: yellow;
+	color: #ff3f89;
+}
+
+.liste {
+	font-family: arial;
+	font-weight: bold;
+	padding-top: 10px;
+
+}
+
+.brow {
+	 list-style: none;
+}
